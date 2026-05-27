@@ -1,4 +1,4 @@
-# Simple Todo Rust
+# Simple Todo Application written in Rust
 
 A simple, fast, and lightweight Todo application written in Rust and powered by the [Slint](https://slint.dev/) UI framework.
 
